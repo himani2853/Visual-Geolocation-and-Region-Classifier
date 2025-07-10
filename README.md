@@ -1,7 +1,5 @@
 # Visual-Geolocation-and-Region-Classifier
 
-# Geospatial Computer Vision Project
-
 This project implements a comprehensive computer vision system for analyzing geospatial imagery, tackling three interconnected tasks: **region classification**, **coordinate prediction**, and **orientation detection**. The system uses state-of-the-art deep learning architectures to extract meaningful geographic information from satellite and aerial imagery.
 
 ## 📋 Project Overview
